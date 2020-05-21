@@ -61,7 +61,6 @@ exports.config = {
         platformName: 'Android',
         'appium:deviceName': 'Pixel 2',
         'appium:app': '/Users/wawerumwaura/Documents/javascript/mobile/automation-testing/appium/resources/ApiDemos-debug.apk'
-
     }],
     //
     // ===================
